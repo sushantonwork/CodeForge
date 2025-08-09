@@ -154,11 +154,5 @@ We welcome contributions! To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-<<<<<<< HEAD
----
 
 Thank you for using CodeForge! 🚀
-=======
-
-Thank you for using Trinity Build! 🚀
->>>>>>> 3f18fae (Update1 readme)
