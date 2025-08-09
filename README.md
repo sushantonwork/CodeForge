@@ -1,6 +1,6 @@
-# Trinity Build – AI-Powered Web App Builder
+# CodeForge – AI-Powered Web App Builder
 
-Trinity Build is an AI-powered platform that allows users to effortlessly create stunning, AI-generated websites and web applications. With intelligent automation and seamless customization, Trinity Build is the future of web design.
+CodeForge is an AI-powered platform that allows users to effortlessly create stunning, AI-generated websites and web applications. With intelligent automation and seamless customization.
 
 ## Features
 
@@ -154,16 +154,6 @@ We welcome contributions! To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions, suggestions, or issues, please reach out:
-
-- **Author**: Swayam Jain
-- **Email**: [jainswyam4006@gmail.com](mailto:jainswyam4006@gmail.com)
-- **Issues**: [GitHub Issues](https://github.com/swayamjain8/trinity-build/issues)
-- **Website**: [Trinity Build](https://trinitybuild.vercel.app)
-
 ---
 
-Thank you for using Trinity Build! 🚀
+Thank you for using CodeForge! 🚀
